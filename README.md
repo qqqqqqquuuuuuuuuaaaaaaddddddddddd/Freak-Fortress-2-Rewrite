@@ -1,3 +1,6 @@
+# Modified version of Freak Fortress 2: Rewrite
+## Link to original: https://github.com/Batfoxkid/Freak-Fortress-2-Rewrite
+
 # Ｆｒｅａｋ　Ｆｏｒｔｒｅｓｓ　２：　Ｒｅｗｒｉｔｅ
 
 ### A base for making custom bosses in Team Fortress 2 and another generation of the Vs. Saxton Hale gamemode.
